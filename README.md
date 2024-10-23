@@ -19,4 +19,4 @@ This plugin aspires to promote the usage of inline footnotes by addressing the s
 
 
 Notes
-- This plugin will use [Pandoc's implementation](https://pandoc.org/MANUAL.html#extension-inline_notes)'s implementation of inline footnotes, since Pandoc is also the dominant option for converting Markdown sources to publishable and sharable formats. I am aware of the existence of other differing implementations.
+- This plugin will use [Pandoc's implementation](https://pandoc.org/MANUAL.html#extension-inline_notes) of inline footnotes, since Pandoc is also the dominant option for converting Markdown sources to publishable and sharable formats. I am aware of the existence of other differing implementations.

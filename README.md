@@ -3,7 +3,7 @@
 To make it easy to use inline footnotes instead of standard Markdown footnotes.
 
 Why Use Inline Footnotes
-- Traditional Markdown footnotes consist of two separate parts, markers and contents, each pair of which are connected by an ID such as `^[13]` or `^[32s3dd39]`.
+- Traditional Markdown footnotes consist of two separate parts, markers and contents, each pair of which are connected by an ID such as `[^13]` or `[^32s3dd39]`.
 - Inline footnotes, which may sound like an oxymoron, actaully refers to inline notes in Markdown during the drafting/editing process but are intended to be footnotes when the document is finally presented. In this way, inline footnotes are the functional equivalent of `\footnote{}` in LaTeX.
 
 

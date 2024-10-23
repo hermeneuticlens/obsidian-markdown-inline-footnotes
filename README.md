@@ -15,7 +15,8 @@ Benefit of Using Inline Footnotes
 This plugin aspires to promote the usage of inline footnotes by addressing the signular challenge: long inline footnotes interrupting the flow of the main text, introducing inconvenience and distraction during the drafting/editing process.
 - Step 1: Implement support for folidng and unfolding of inline footnotes in Obsidain's Live Preview mode. (Similar to Overleaf's Visual Editor or Lyx)
 - Step 2: Enable on-hover popup preview of folded inline footnotes.
-- Step 3 (stretch goal): Design a panel listing all the footnotes in the document, with the option of following the cursor's position. (Similar to the Footnote Panel in Microsoft Word under Draft or Web view mode.)
+- Step 3: Support keyboard shortcuts to quickly fold-unfold individual inline footnote or all inline footnotes within the same paragraph, etc.
+- Step 4 (stretch goal): Design a panel listing all the footnotes in the document, with the option of following the cursor's position. (Similar to the Footnote Panel in Microsoft Word under Draft or Web view mode.)
 
 
 Notes
